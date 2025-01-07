@@ -1,3 +1,5 @@
+# Great Snakes
+
 This challenge involves downloading a Python file named `greatsnakes.py` and running it locally.
 
 It involves making sure that your version of Python is Python 3, as that is the version that is required for this course.
